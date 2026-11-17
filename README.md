@@ -1,6 +1,6 @@
 # Wi-Fi penetration ESP32
 
-This software provides a way for user to attack nearby access point using an android device automatically or manually. It harnesses the robust capabilities of the ESP32 microcontroller to execute a vital operation in Wi-Fi network penetration. By capturing key data elements like the PMKID and MIC, it allows users to conduct offline brute force attacks using hashcat to derive the PSK or the password of the target Wi-Fi device. An android device application can be use to automatically control this component, the source code for the android device can be found [here](https://github.com/johndeweyzxc/Wi-Fi-Penetration-Android)
+This software provides a way for user to attack nearby access point using an android device automatically or manually. It harnesses the robust capabilities of the ESP32 microcontroller to execute a vital operation in Wi-Fi network penetration. By capturing key data elements like the PMKID and MIC, it allows users to conduct offline brute force attacks using hashcat to derive the PSK or the password of the target Wi-Fi device. An android device application can be use to automatically control this component, the source code for the android device can be found [here](https://github.com/mdkwork/WiFi-Scraper-Android)
 
 ## Features
 
